@@ -30,3 +30,4 @@
 {"team" : "Washington Wizards","name" : "John Wall","points" : 15,"rebound" : 3,"assist" : 12, "blocks" : 3, "submit_date" : "2016-11-22"}
 { "index" : { "_index" : "basketball", "_type" : "record", "_id" : "16" } }
 {"team" : "Washington Wizards","name" : "John Wall","points" : 22,"rebound" : 4,"assist" : 14, "blocks" : 3, "submit_date" : "2016-11-27"}
+
